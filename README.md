@@ -200,7 +200,9 @@
 
                 <!-- Video 3 -->
                 <div class="video-card">
+                
                     <div class="thumbnail">Miniatura del Video 3</div>
+                     src="[https://www.youtube.com/watch?v=VnIkPqDwKXU]" 
                     <div class="video-info">
                         <h3>Título del Video 3</h3>
                         <p>Descripción breve...</p>
