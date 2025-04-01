@@ -161,7 +161,7 @@
             <div class="video-container">
                 <!-- Reemplaza el ID del video de YouTube -->
                 <iframe 
-                    src="https://www.youtube.com/embed/?autoplay=1&mute=1" 
+                    src="[https://www.youtube.com/watch?v=VnIkPqDwKXU]" 
                     frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                     allowfullscreen>
