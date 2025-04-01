@@ -219,7 +219,7 @@
     <script>
         document.getElementById('subscribeBtn').addEventListener('click', function() {
             // Reemplaza con el enlace real de tu canal
-            window.open('https://www.youtube.com/@tucanal?sub_confirmation=1', '_blank');
+            window.open('[https://www.youtube.com/watch?v=VnIkPqDwKXU]', '_blank');
         });
     </script>
 </body>
