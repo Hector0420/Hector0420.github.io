@@ -161,7 +161,7 @@
             <div class="video-container">
                 <!-- Reemplaza el ID del video de YouTube -->
                 <iframe 
-                    src="[https://www.youtube.com/watch?v=VnIkPqDwKXU]" 
+                    src="[<iframe width="754" height="353" src="https://www.youtube.com/embed/-ut593BSlCk" title="7 - ¿Qué es el Diseño Web? - CONCEPTOS WEB BÁSICOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]" 
                     frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                     allowfullscreen>
