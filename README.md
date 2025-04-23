@@ -679,7 +679,7 @@
         <div class="header-container">
             <div class="logo">
                 <i class="fas fa-home"></i>
-                <span>Dak Home&nbsp;</span>
+                <span>Higiene y Limpieza&nbsp;</span>
             </div>
             <div class="contact-info">
                 <i class="fas fa-phone"></i> (712) 186-1266
@@ -736,64 +736,108 @@
         <div class="category-grid">
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Recamara1.jpg" alt="Recámara">
+                    <img src="Imagenes/Slim Clean Pro.jpg" alt="Slim Clean Pro">
                 </div>
                 <div class="category-info">
-                    <h3>Recámara</h3>
+                    <h3>Slim Clean Pro</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Cocina">
+                    <img src="Imagenes/Cepillo Flex.jpg" alt="Cepillo Flex">
                 </div>
                 <div class="category-info">
-                    <h3>Cocina</h3>
+                    <h3>Cepillo Flex</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Baño">
+                    <img src="Imagenes/Limpia WC.jpg" alt="Limpia WC">
                 </div>
                 <div class="category-info">
-                    <h3>Baño</h3>
+                    <h3>Limpia WC&nbsp;</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Comedor2.jpg" alt="Comedor">
+                    <img src="Imagenes/Set Practi Agujetas.jpg" alt="Set Practi Agujetas">
                 </div>
                 <div class="category-info">
-                    <h3>Comedor</h3>
+                    <h3>Set Practi Agujetas</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Cuarto de servicio1.jpg" alt="Cuarto de servicio">
+                    <img src="Imagenes/Guante Termo Resist.jpg" alt="Guante Termo Resist">
                 </div>
                 <div class="category-info">
-                    <h3>Cuarto de servicio</h3>
+                    <h3>Guante Termo Resist</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
-            
-            <div class="category-card">
+             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Sala1.jpg" alt="Sala">
+                  <img src="Imagenes/Cepi Estufa 4en1.jpg" alt="Cepi Estufa 4 en 1">
                 </div>
                 <div class="category-info">
-                    <h3>Sala</h3>
+                    <h3>Cepi Estufa 4 en 1</h3>
                     <a href="#" class="btn">Ver productos</a>
                 </div>
             </div>
-        </div>
+			 <div class="category-card">
+                <div class="category-img">
+                  <img src="Imagenes/Dosi Perfect.jpg" alt="Dosi Perfect">
+                </div>
+                <div class="category-info">
+                    <h3>Dosi Perfect</h3>
+                    <a href="#" class="btn">Ver productos</a>
+                </div>
+            </div>
+			 <div class="category-card">
+                <div class="category-img">
+                  <img src="Imagenes/Lava Tenis Pro.jpg" alt="Lava Tenis Pro">
+                </div>
+                <div class="category-info">
+                    <h3>Lava Tenis Pro</h3>
+                    <a href="#" class="btn">Ver productos</a>
+                </div>
+            </div>
+			 <div class="category-card">
+                <div class="category-img">
+                  <img src="Imagenes/Better Steam Dúo.jpg" alt="Better Steam Dúo">
+                </div>
+                <div class="category-info">
+                    <h3>Better Steam Dúo&nbsp;</h3>
+                    <a href="#" class="btn">Ver productos</a>
+                </div>
+            </div>
+			<div class="category-card">
+                <div class="category-img">
+                  <img src="Imagenes/Talla Residuos.jpg" alt="Talla Residuos">
+                </div>
+                <div class="category-info">
+                    <h3>Talla Residuos</h3>
+                    <a href="#" class="btn">Ver productos</a>
+                </div>
+            </div>
+			<div class="category-card">
+                <div class="category-img">
+                  <img src="Imagenes/Estación Practiklin .jpg" alt="Estación Practiklin ">
+                </div>
+                <div class="category-info">
+                    <h3>Estación Practiklin&nbsp;</h3>
+                    <a href="#" class="btn">Ver productos</a>
+                </div>
+            </div>
+           </div>
     </section>
     
     <!-- Featured Products -->
