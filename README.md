@@ -679,7 +679,7 @@
         <div class="header-container">
             <div class="logo">
                 <i class="fas fa-home"></i>
-                <span>Dak Home&nbsp;</span>
+                <span>Practimuebles&nbsp;</span>
             </div>
             <div class="contact-info">
                 <i class="fas fa-phone"></i> (712) 186-1266
@@ -704,9 +704,6 @@
                         <li><a href="#">Gurmy&nbsp;</a></li>
                         <li><a href="recamara.html.html">Recámara&nbsp;</a></li>
                         <li><a href="#">Bienestar&nbsp;</a></li>
-						<li><a href="baño.html.html">Baño&nbsp;</a></li>
-						<li><a href="higiene_y_limpieza.html.html">Higiene y Limpieza&nbsp;</a></li>
-						<li><a href="contigo.html.html">Contigo&nbsp;</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Servicios</a></li>
