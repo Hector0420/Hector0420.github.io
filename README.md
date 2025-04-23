@@ -1,4 +1,3 @@
-# Hector0420.github.io
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -680,10 +679,10 @@
         <div class="header-container">
             <div class="logo">
                 <i class="fas fa-home"></i>
-                <span>Hogar Total</span>
+                <span>Dak Home&nbsp;</span>
             </div>
             <div class="contact-info">
-                <i class="fas fa-phone"></i> (55) 1234-5678
+                <i class="fas fa-phone"></i> (712) 186-1266
             </div>
         </div>
     </header>
@@ -695,16 +694,19 @@
                 <i class="fas fa-bars"></i>
             </button>
             <ul class="main-menu">
-                <li><a href="#">Inicio</a></li>
+                <li><a href="index.html">Inicio</a></li>
                 <li>
                     <a href="#">Productos <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Recámara</a></li>
-                        <li><a href="#">Cocina</a></li>
-                        <li><a href="#">Baño</a></li>
-                        <li><a href="#">Comedor</a></li>
-                        <li><a href="#">Cuarto de servicio</a></li>
-                        <li><a href="#">Sala</a></li>
+                        <li><a href="practimuebles.html.html">Practimuebles&nbsp;&nbsp;</a></li>
+                        <li><a href="hogar.html.html">Hogar&nbsp;</a></li>
+                        <li><a href="cocina.html.html">Cocina&nbsp;</a></li>
+                        <li><a href="#">Gurmy&nbsp;</a></li>
+                        <li><a href="recamara.html.html">Recámara&nbsp;</a></li>
+                        <li><a href="#">Bienestar&nbsp;</a></li>
+						<li><a href="baño.html.html">Baño&nbsp;</a></li>
+						<li><a href="higiene_y_limpieza.html.html">Higiene y Limpieza&nbsp;</a></li>
+						<li><a href="contigo.html.html">Contigo&nbsp;</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Servicios</a></li>
@@ -722,8 +724,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Todo lo que necesitas para tu hogar</h1>
-            <p>Encuentra los mejores productos para cada espacio de tu casa con la mejor calidad y precios del mercado.</p>
+            <h1>Productos de better para hacer de tu casa un lugar especial.</h1>
+            <p>Encuentra los mejores productos para cada espacio de tu casa con la mejor calidad y precios, mejoramos cada día en nuestro servicio.&nbsp;&nbsp;</p>
             <a href="#" class="btn">Ver productos</a>
         </div>
     </section>
@@ -734,7 +736,7 @@
         <div class="category-grid">
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Recámara">
+                    <img src="Imagenes/Recamara1.jpg" alt="Recámara">
                 </div>
                 <div class="category-info">
                     <h3>Recámara</h3>
@@ -764,7 +766,7 @@
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1583845112203-454375a0a5e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Comedor">
+                    <img src="Imagenes/Comedor2.jpg" alt="Comedor">
                 </div>
                 <div class="category-info">
                     <h3>Comedor</h3>
@@ -774,7 +776,7 @@
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1595526114035-0d45a16a0d05?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Cuarto de servicio">
+                    <img src="Imagenes/Cuarto de servicio1.jpg" alt="Cuarto de servicio">
                 </div>
                 <div class="category-info">
                     <h3>Cuarto de servicio</h3>
@@ -784,7 +786,7 @@
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Sala">
+                    <img src="Imagenes/Sala1.jpg" alt="Sala">
                 </div>
                 <div class="category-info">
                     <h3>Sala</h3>
