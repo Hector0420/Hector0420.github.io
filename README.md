@@ -736,7 +736,7 @@
         <div class="category-grid">
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Recamara1.jpg" alt="Recámara">
+                    <img src="Recamara1.jpg" alt="Recámara">
                 </div>
                 <div class="category-info">
                     <h3>Recámara</h3>
@@ -776,7 +776,7 @@
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Cuarto de servicio1.jpg" alt="Cuarto de servicio">
+                    <img src="Cuarto de servicio1.jpg" alt="Cuarto de servicio">
                 </div>
                 <div class="category-info">
                     <h3>Cuarto de servicio</h3>
@@ -786,7 +786,7 @@
             
             <div class="category-card">
                 <div class="category-img">
-                    <img src="Imagenes/Sala1.jpg" alt="Sala">
+                    <img src="Sala1.jpg" alt="Sala">
                 </div>
                 <div class="category-info">
                     <h3>Sala</h3>
